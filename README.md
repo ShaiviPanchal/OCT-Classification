@@ -6,4 +6,4 @@ The classes are:
 - DME
 - DRUSEN
 
-Using InceptionV3Net Artchitecture.
+Using InceptionV3Net and MobileNet Artchitecture.
